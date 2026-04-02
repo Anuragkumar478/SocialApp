@@ -18,7 +18,7 @@ function CreatePost() {
         formData.append("image", image);
       }
 
-      await API.post("/api/posts", formData, {
+      await API.post("/api/posts/", formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },

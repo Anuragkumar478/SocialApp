@@ -68,14 +68,14 @@ Routing: React Router manages navigation between pages (/login, /register, /crea
 Backend: Express routes handle posts, comments, authentication, and logout logic.
 🔹 Screenshots
 
-Place your screenshots in frontend/public/screenshots/ folder
+
 
 Homepage
-<img src="frontend/public/screenshots/web_feed.png" width="500" />
+<img src="frontend/public/screenshot/web_feed.png" width="500" />
 Create Post
-<img src="frontend/public/screenshots/create-post.png" width="500" />
+<img src="frontend/public/screenshot/create-post.png" width="500" />
 Navbar Menu
-<img src="frontend/public/screenshots/toggleNavbar.png" width="500" />
+<img src="frontend/public/screenshot/toggleNavbar.png" width="500" />
 🔹 Technologies Used
 Frontend: React, Axios, React Router, Bootstrap
 Backend: Node.js, Express, JWT, MongoDB (if used)

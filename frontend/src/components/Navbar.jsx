@@ -52,7 +52,7 @@ const[show ,setShow]=useState(false);
   +
 </button>
      <div style={{ position: "relative", display: "inline-block" }}  onMouseEnter={() => setShow(true)}
-      onMouseLeave={() => setShow(false)}>
+     >
       {/* Avatar / toggle button */}
       <button
         className="btn btn-secondary  rounded-circle"
